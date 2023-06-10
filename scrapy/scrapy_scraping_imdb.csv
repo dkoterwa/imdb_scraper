@@ -1,0 +1,245 @@
+no,title,rating,genre,date_published,duration
+1,The Shawshank Redemption,9.2,Drama,1994-10-14,142
+2,The Godfather,9.2,Crime,1972-03-24,175
+3,The Dark Knight,9.0,Action,2008-07-18,152
+4,The Godfather Part II,9.0,Crime,1974-12-18,202
+5,12 Angry Men,9.0,Crime,1957-04-10,96
+6,Schindler's List,8.9,Biography,1994-02-04,195
+7,The Lord of the Rings: The Return of the King,8.9,Action,2003-12-17,201
+8,Pulp Fiction,8.8,Crime,1994-10-14,154
+9,The Lord of the Rings: The Fellowship of the Ring,8.8,Action,2001-12-19,178
+10,"The Good, the Bad and the Ugly",8.8,Adventure,1967-12-29,178
+11,Forrest Gump,8.8,Drama,1994-07-06,142
+12,Spider-Man: Across the Spider-Verse,8.8,Animation,2023-06-02,140
+13,Fight Club,8.7,Drama,1999-10-15,139
+14,The Lord of the Rings: The Two Towers,8.7,Action,2002-12-18,179
+15,Inception,8.7,Action,2010-07-16,148
+16,Star Wars: Episode V - The Empire Strikes Back,8.7,Action,1980-06-18,124
+17,The Matrix,8.7,Action,1999-03-31,136
+18,Goodfellas,8.7,Biography,1990-09-21,145
+19,One Flew Over the Cuckoo's Nest,8.6,Drama,1975-11-19,133
+20,Se7en,8.6,Crime,1995-09-22,127
+21,It's a Wonderful Life,8.6,Drama,1947-01-07,130
+22,Seven Samurai,8.6,Action,1956-11-19,207
+23,The Silence of the Lambs,8.6,Crime,1991-02-14,118
+24,Saving Private Ryan,8.6,Drama,1998-07-24,169
+25,City of God,8.6,Crime,2004-02-13,130
+26,Interstellar,8.6,Adventure,2014-11-07,169
+27,Life Is Beautiful,8.6,Comedy,1997-12-20,116
+28,The Green Mile,8.6,Crime,1999-12-10,189
+29,Star Wars: Episode IV - A New Hope,8.5,Action,1977-05-25,121
+30,Terminator 2: Judgment Day,8.5,Action,1991-07-03,137
+31,Back to the Future,8.5,Adventure,1985-07-03,116
+32,Spirited Away,8.5,Animation,2003-03-28,125
+33,The Pianist,8.5,Biography,2003-03-28,150
+34,Psycho,8.5,Horror,1960-09-08,109
+35,Parasite,8.5,Drama,2019-11-08,132
+36,Léon: The Professional,8.5,Action,1994-11-18,110
+37,The Lion King,8.5,Animation,1994-06-24,88
+38,Gladiator,8.5,Action,2000-05-05,155
+39,American History X,8.5,Crime,1998-11-20,119
+40,The Departed,8.5,Crime,2006-10-06,151
+41,Whiplash,8.5,Drama,2014-10-15,106
+42,The Prestige,8.5,Drama,2006-10-20,130
+43,The Usual Suspects,8.5,Crime,1995-08-16,106
+44,Casablanca,8.5,Drama,1943-01-23,102
+45,Grave of the Fireflies,8.5,Animation,1989-07-26,89
+46,Harakiri,8.5,Action,1964-08-04,133
+47,The Intouchables,8.5,Biography,2011-11-02,112
+48,Modern Times,8.4,Comedy,1936-02-25,87
+49,Once Upon a Time in the West,8.4,Western,1969-07-04,165
+50,Cinema Paradiso,8.4,Drama,1990-02-23,155
+51,Rear Window,8.4,Mystery,1954-09-01,112
+52,Alien,8.4,Horror,1979-06-22,117
+53,City Lights,8.4,Comedy,1931-03-07,87
+54,Apocalypse Now,8.4,Drama,1979-08-15,147
+55,Memento,8.4,Mystery,2001-05-25,113
+56,Django Unchained,8.4,Drama,2012-12-25,165
+57,Indiana Jones and the Raiders of the Lost Ark,8.4,Action,1981-06-12,115
+58,WALL·E,8.4,Animation,2008-06-27,98
+59,The Lives of Others,8.4,Drama,2007-03-30,137
+60,Sunset Blvd.,8.4,Drama,1950-08-04,110
+61,Paths of Glory,8.4,Drama,1957-12-25,88
+62,Avengers: Infinity War,8.4,Action,2018-04-27,149
+63,The Shining,8.4,Drama,1980-06-13,146
+64,The Great Dictator,8.4,Comedy,1941-03-07,125
+65,Witness for the Prosecution,8.4,Crime,1958-02-06,116
+66,Spider-Man: Into the Spider-Verse,8.4,Animation,2018-12-14,117
+67,Aliens,8.3,Action,1986-07-18,137
+68,American Beauty,8.3,Drama,1999-10-01,122
+69,The Dark Knight Rises,8.3,Action,2012-07-20,164
+70,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,8.3,Comedy,1964-01-29,95
+71,Inglourious Basterds,8.3,Adventure,2009-08-21,153
+73,Coco,8.3,Animation,2017-11-22,105
+74,Amadeus,8.3,Biography,1984-09-19,160
+75,Toy Story,8.3,Animation,1995-11-25,81
+76,Braveheart,8.3,Biography,1995-05-24,178
+77,Das Boot,8.3,Drama,1982-02-10,149
+78,Joker,8.3,Crime,2019-10-04,122
+79,Avengers: Endgame,8.3,Action,2019-04-26,181
+80,Princess Mononoke,8.3,Animation,1997-12-19,134
+81,Good Will Hunting,8.3,Drama,1998-01-09,126
+82,Once Upon a Time in America,8.3,Crime,1984-06-01,229
+83,Your Name.,8.3,Animation,2017-04-07,106
+84,3 Idiots,8.3,Comedy,2009-12-25,170
+85,Singin' in the Rain,8.3,Comedy,1952-04-10,103
+86,High and Low,8.3,Crime,1963-11-26,143
+87,Requiem for a Dream,8.3,Drama,2000-12-15,102
+88,Capernaum,8.3,Drama,2018-09-20,126
+89,Toy Story 3,8.3,Animation,2010-06-18,103
+90,Star Wars: Episode VI - Return of the Jedi,8.3,Action,1983-05-25,131
+91,Come and See,8.3,Drama,1985-09-03,142
+92,2001: A Space Odyssey,8.3,Adventure,1970-06-24,149
+93,Eternal Sunshine of the Spotless Mind,8.3,Drama,2004-03-19,108
+94,The Hunt,8.3,Drama,2013-01-10,115
+95,Reservoir Dogs,8.3,Crime,1992-09-02,99
+96,Citizen Kane,8.2,Drama,1941-09-05,119
+97,Lawrence of Arabia,8.2,Adventure,1962-12-11,218
+98,M,8.2,Crime,1931-08-31,99
+99,Ikiru,8.2,Drama,1956-03-25,143
+100,North by Northwest,8.2,Action,1959-12-18,136
+101,The Apartment,8.2,Comedy,1960-06-29,125
+102,Vertigo,8.2,Mystery,1958-06-16,128
+103,Amélie,8.2,Comedy,2002-02-08,122
+104,Double Indemnity,8.2,Crime,1944-07-06,107
+105,Hamilton,8.2,Biography,2020-07-03,160
+106,A Clockwork Orange,8.2,Crime,1972-02-02,136
+107,Full Metal Jacket,8.2,Drama,1987-07-10,116
+108,Scarface,8.2,Crime,1983-12-09,170
+109,Incendies,8.2,Drama,2011-01-12,131
+110,Heat,8.2,Action,1995-12-15,170
+111,Up,8.2,Animation,2009-05-29,96
+112,To Kill a Mockingbird,8.2,Crime,1963-03-16,129
+113,The Sting,8.2,Comedy,1973-12-25,129
+114,A Separation,8.2,Drama,2011-03-16,123
+115,Metropolis,8.2,Drama,1927-03-13,153
+116,L.A. Confidential,8.2,Crime,1997-09-19,138
+117,Die Hard,8.2,Action,1988-07-20,132
+118,Indiana Jones and the Last Crusade,8.2,Action,1989-05-24,127
+119,Taxi Driver,8.2,Crime,1976-02-09,114
+120,Snatch,8.2,Comedy,2001-01-19,102
+121,Bicycle Thieves,8.2,Drama,1949-12-13,89
+122,Like Stars on Earth,8.2,Drama,2007-12-21,165
+123,1917,8.2,Action,2020-01-10,119
+124,Dangal,8.2,Action,2016-12-21,161
+125,Downfall,8.2,Biography,2005-04-08,156
+126,Top Gun: Maverick,8.2,Action,2022-05-27,130
+127,For a Few Dollars More,8.2,Drama,1967-05-10,132
+128,Batman Begins,8.2,Action,2005-06-15,140
+129,The Kid,8.2,Comedy,1921-02-06,68
+130,Some Like It Hot,8.2,Comedy,1959-03-19,121
+131,The Father,8.2,Drama,2021-02-26,97
+132,All About Eve,8.2,Drama,1950-10-27,138
+134,Green Book,8.2,Biography,2018-11-16,130
+135,Judgment at Nuremberg,8.2,Drama,1961-12-18,179
+136,The Truman Show,8.2,Comedy,1998-06-05,103
+137,Ran,8.2,Action,1985-06-01,162
+138,Casino,8.2,Crime,1995-11-22,178
+139,There Will Be Blood,8.2,Drama,2008-01-25,158
+140,Pan's Labyrinth,8.2,Drama,2007-01-19,118
+141,Unforgiven,8.2,Drama,1992-08-07,130
+142,Shutter Island,8.2,Mystery,2010-02-19,138
+143,The Sixth Sense,8.2,Drama,1999-08-06,107
+144,Jurassic Park,8.2,Action,1993-06-11,127
+145,A Beautiful Mind,8.2,Biography,2002-01-04,135
+146,Yojimbo,8.1,Action,1961-09-13,110
+147,The Treasure of the Sierra Madre,8.1,Adventure,1948-01-24,126
+148,Monty Python and the Holy Grail,8.1,Adventure,1975-05-25,91
+149,No Country for Old Men,8.1,Crime,2007-11-21,122
+150,Kill Bill: Vol. 1,8.1,Action,2003-10-10,111
+151,The Great Escape,8.1,Adventure,1963-07-04,172
+152,Rashomon,8.1,Crime,1951-12-26,88
+153,The Thing,8.1,Horror,1982-06-25,109
+154,Finding Nemo,8.1,Animation,2003-05-30,100
+155,Spider-Man: No Way Home,8.1,Action,2021-12-17,148
+156,The Elephant Man,8.1,Biography,1980-10-10,124
+157,Chinatown,8.1,Drama,1974-06-20,130
+158,Raging Bull,8.1,Biography,1980-12-19,129
+159,V for Vendetta,8.1,Action,2006-03-17,132
+160,Gone with the Wind,8.1,Drama,1940-01-17,238
+161,Guardians of the Galaxy Vol. 3,8.1,Action,2023-05-05,150
+162,Dial M for Murder,8.1,Crime,1954-05-29,105
+163,Inside Out,8.1,Animation,2015-06-19,95
+164,"Lock, Stock and Two Smoking Barrels",8.1,Action,1998-08-28,107
+165,Howl's Moving Castle,8.1,Animation,2005-06-17,119
+166,The Secret in Their Eyes,8.1,Drama,2010-05-21,129
+167,"Three Billboards Outside Ebbing, Missouri",8.1,Comedy,2017-12-01,115
+168,Prisoners,8.1,Crime,2013-09-20,153
+169,Trainspotting,8.1,Drama,1996-08-09,93
+170,The Bridge on the River Kwai,8.1,Adventure,1957-12-14,161
+171,Fargo,8.1,Crime,1996-04-05,98
+172,Warrior,8.1,Action,2011-09-09,140
+173,Gran Torino,8.1,Drama,2009-01-09,116
+174,Catch Me If You Can,8.1,Biography,2002-12-25,141
+175,My Neighbor Totoro,8.1,Animation,1990-07-13,86
+176,Million Dollar Baby,8.1,Drama,2005-01-28,132
+177,Children of Heaven,8.1,Drama,1999-01-22,89
+178,The Gold Rush,8.1,Adventure,1925-07-13,95
+179,Blade Runner,8.1,Action,1982-06-25,117
+180,Klaus,8.1,Animation,2019-11-15,96
+181,Harry Potter and the Deathly Hallows: Part 2,8.1,Adventure,2011-07-15,130
+182,12 Years a Slave,8.1,Biography,2013-11-08,134
+183,Before Sunrise,8.1,Drama,1995-01-27,101
+184,The Grand Budapest Hotel,8.1,Adventure,2014-03-28,99
+185,Ben-Hur,8.1,Adventure,1959-11-18,212
+186,On the Waterfront,8.1,Crime,1954-06-22,108
+187,Gone Girl,8.1,Drama,2014-10-03,149
+188,The General,8.1,Action,1927-01-02,67
+189,Wild Strawberries,8.1,Drama,1959-06-22,91
+190,Barry Lyndon,8.1,Adventure,1975-12-18,185
+191,In the Name of the Father,8.1,Biography,1994-02-25,133
+192,The Deer Hunter,8.1,Drama,1979-02-23,183
+193,Hacksaw Ridge,8.1,Biography,2016-11-04,139
+194,The Third Man,8.1,Film-Noir,1949-09-03,93
+195,The Wages of Fear,8.1,Adventure,1955-02-16,131
+196,Memories of Murder,8.1,Crime,2003-05-02,132
+198,Wild Tales,8.1,Comedy,2014-08-21,122
+199,Mr. Smith Goes to Washington,8.1,Comedy,1939-10-19,129
+201,Mary and Max,8.1,Animation,2010-03-12,92
+202,Dead Poets Society,8.1,Comedy,1989-06-09,128
+203,How to Train Your Dragon,8.1,Animation,2010-03-26,98
+204,"Monsters, Inc.",8.1,Animation,2001-11-02,92
+205,The Seventh Seal,8.1,Drama,1958-10-13,96
+206,Jaws,8.1,Adventure,1975-06-20,124
+207,Room,8.1,Drama,2016-01-22,118
+208,The Big Lebowski,8.1,Comedy,1998-03-06,117
+209,Tokyo Story,8.1,Drama,1972-03-13,136
+210,Ford v Ferrari,8.1,Action,2019-11-15,152
+211,The Passion of Joan of Arc,8.0,Biography,1928-10-25,114
+212,Hotel Rwanda,8.0,Biography,2005-02-04,121
+214,Ratatouille,8.0,Animation,2007-06-27,111
+216,Spotlight,8.0,Biography,2015-11-20,129
+217,Logan,8.0,Action,2017-03-03,137
+218,The Terminator,8.0,Action,1984-10-26,107
+219,Jai Bhim,8.0,Crime,2021-11-02,164
+220,Rush,8.0,Action,2013-09-27,123
+221,Stand by Me,8.0,Adventure,1986-08-22,89
+222,Before Sunset,8.0,Drama,2004-07-30,80
+223,Network,8.0,Drama,1976-11-27,121
+224,Into the Wild,8.0,Adventure,2007-10-19,148
+225,The Wizard of Oz,8.0,Adventure,1939-08-25,102
+226,The Best Years of Our Lives,8.0,Drama,1947-05-29,170
+227,The Exorcist,8.0,Horror,1973-12-26,122
+228,La haine,8.0,Crime,1996-02-23,98
+229,The Incredibles,8.0,Animation,2004-11-05,115
+230,Groundhog Day,8.0,Comedy,1993-02-12,101
+231,To Be or Not to Be,8.0,Comedy,1942-03-06,99
+232,Pirates of the Caribbean: The Curse of the Black Pearl,8.0,Action,2003-07-09,143
+233,The Battle of Algiers,8.0,Drama,1967-09-20,121
+234,The Grapes of Wrath,8.0,Drama,1940-03-15,129
+235,My Father and My Son,8.0,Drama,2005-11-18,112
+236,Hachi: A Dog's Tale,8.0,Biography,2010-03-12,93
+237,Pather Panchali,8.0,Drama,1955-08-26,125
+238,The Handmaiden,8.0,Drama,2016-06-01,145
+239,Amores Perros,8.0,Drama,2001-04-13,154
+240,Rebecca,8.0,Drama,1940-04-12,130
+241,Cool Hand Luke,8.0,Crime,1967-11-01,127
+242,The Sound of Music,8.0,Biography,1965-04-01,172
+243,It Happened One Night,8.0,Comedy,1934-02-22,105
+244,The 400 Blows,8.0,Crime,1959-11-16,99
+245,Persona,8.0,Drama,1967-03-16,83
+246,Life of Brian,8.0,Comedy,1979-08-17,94
+247,The Help,8.0,Drama,2011-08-10,146
+248,The Iron Giant,8.0,Animation,1999-08-06,86
+249,Aladdin,8.0,Animation,1992-11-25,90
+250,Drishyam,8.0,Crime,2015-07-31,163
