@@ -14,11 +14,17 @@ python scraper_imdb_soup.py
 
 ### 1. Open imdb_spider.py 
 ### 2. Make sure Scrapy is installed. If it isn't already installed, use the following command: 
-```bash pip install scrapy ```
+```bash 
+pip install scrapy 
+```
 ### 3. Install the Scrapy Fake Useragent plugin. Install it by running the following command: 
-```bash pip install scrapy-fake-useragent ```
+```bash 
+pip install scrapy-fake-useragent 
+```
 ### 4. We may now run the Scrapy spider and extract the data. To start the spider and save the output as a CSV file, use the following command: 
-```bash scrapy crawl imdbSpider -o scrapy_scraping_imdb.csv ```
+```
+bash scrapy crawl imdbSpider -o scrapy_scraping_imdb.csv 
+```
 
 ## How to run Selenium Scraper
 
